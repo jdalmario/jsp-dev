@@ -4,7 +4,7 @@ package org.utility;
  * Created by jdalm on 5/8/2016.
  *
  *
- * This is class is being by from the jsp file
+ * This class is being by from the jsp file
  */
 public class StringManipulator {
 
